@@ -6,7 +6,7 @@ console.log("No argument");
 }
 else if(args.length ===1)
 {
-console.log("Argument Found");
+console.log("Argument found");
 }
 else
-console.log("Arguments Found");
+console.log("Arguments found");
